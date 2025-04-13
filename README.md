@@ -101,7 +101,7 @@ PixelSplash/
 ## 🚀 Getting Started
 
 ```bash
-git clone <your-repository-url>
+git clone 
 cd PixelSplash
 
 python -m venv venv
